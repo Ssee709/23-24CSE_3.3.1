@@ -33,5 +33,3 @@ else:
             terms.append(term3)
             defins.append(defin3)
             add2 = input("Would you like to add another term?: ")
-        else:
-            study = input("Would like to study your terms?: ")
