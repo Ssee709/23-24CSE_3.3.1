@@ -18,6 +18,7 @@ else:
         def terms_to_study():
             print("Here are all of the terms you had input: ", str(terms))
             print("Here's the definitions(In the same order as the corresponding term): ", str(terms))
+
         add = input("Would you like to add another term?: ")
         while add == "yes":
             term4 = input("What term would you like to add?: ")
